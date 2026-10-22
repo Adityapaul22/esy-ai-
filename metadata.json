@@ -1,0 +1,6 @@
+{
+  "name": "NovaAI Chatbot",
+  "description": "Intelligent, multimodal conversational AI chat bot powered by Gemini with streaming, persona presets, web search grounding, and code formatting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
